@@ -1,6 +1,8 @@
-# NEMU
-
-NEMU(NJU Emulator) is a simple but complete full-system emulator designed for teaching purpose.
+# Riscv-Emulator
+## IMPORTANT
+This repository is NOT A SELF-RUNNING repository. The right way to open it is use [ysyx-framework](git@github.com:yizishun/ysyx-framework.git)
+## Introduction
+NEMU is a simple but complete full-system emulator designed for teaching purpose.
 Currently it supports x86, mips32, riscv32 and riscv64.
 To build programs run above NEMU, refer to the [AM project](https://github.com/NJU-ProjectN/abstract-machine).
 
@@ -33,3 +35,6 @@ The main features of NEMU include
   * most of them are simplified and unprogrammable
 * 2 types of I/O
   * port-mapped I/O and memory-mapped I/O
+## TODO List
+pls see [ysyx-framework](git@github.com:yizishun/ysyx-framework.git)
+
